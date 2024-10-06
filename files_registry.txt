@@ -1,0 +1,2 @@
+file :src/dados degradaçãoNV.csv 
+file :src/dados perda de úmidade NV.csv 
